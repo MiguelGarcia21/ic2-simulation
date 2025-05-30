@@ -9,7 +9,7 @@ It includes:
 - QEMU-based ARM Cortex-M3 simulation
 - Python GUI that connects to the simulated system
 - Demonstration of communication constraints when QEMU is not running
-
+> You can check ```pseudocode.md``` for a detailed description of each file and a pseudo-code snippet
 ---
 
 ## 🖥️ Environment
