@@ -1,0 +1,39 @@
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Object files
+*.o
+*.obj
+
+# Compiled binaries
+*.elf
+*.bin
+*.hex
+*.map
+
+# Build directories
+/build/
+build/
+out/
+*.d    # dependency files
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs or serial dumps
+*.log
+*.dump
+
+# QEMU core dumps or temp files
+core
+*.pid
+
+# Backup or temporary files
+*~
+*.swp
+*.swo
+*.bak
+.DS_Store
