@@ -1,4 +1,4 @@
-# STM32 Bit-Banged I2C + QEMU Simulation + Python GUI (Educational Version)
+# STM32 Bit-Banged I2C + QEMU Simulation + Python GUI (Pseudocode Version)
 
 This is an **educational and practice-oriented README** designed to help the reader (and myself) understand the structure and flow of a simulated STM32 firmware application. The goal is to show how each part of the project fits together, from low-level embedded C code to host-PC interaction using a GUI via TCP serial.
 
